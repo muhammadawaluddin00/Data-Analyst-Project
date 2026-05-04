@@ -1,6 +1,6 @@
 # 📊 Indodana BI Analyst Portfolio Project
 
-A complete Business Intelligence portfolio project for the **Indodana BI Analyst** role, covering:
+A Business Intelligence portfolio project for the **Indodana BI Analyst** role, covering:
 - Synthetic lending dataset (5,000 loans + 19,000 repayment records)
 - 8 production-quality SQL analysis queries
 - Interactive Streamlit dashboard (Indodana branded)
