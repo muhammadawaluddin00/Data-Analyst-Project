@@ -20,3 +20,5 @@ A complete Business Intelligence portfolio project for the **Indodana BI Analyst
 - DPD Buckets (OJK regulatory format)
 - Vintage / Cohort Analysis
 - Province & Channel Performance
+
+<img width="1919" height="946" alt="image" src="https://github.com/user-attachments/assets/209c20ce-51b0-4ab3-a456-50162c17c3f1" />
